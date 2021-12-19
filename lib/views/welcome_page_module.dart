@@ -10,7 +10,7 @@ List<PageViewModel> getPages() {
     ),
     PageViewModel(
       image: Image.asset('assets/images/task.png'),
-      title: 'sjsjsjdjdjdjdjdndndjddndjdjd',
+      title: 'sjsjsjdjdjdjdjdndndjddndjd',
       body: 'djdjdjdjdjdjdjdxjjx',
     ),
     PageViewModel(
